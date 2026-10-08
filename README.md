@@ -113,6 +113,6 @@ print(f"Oluşturulan vektör parça sayısı: {len(chunks)}")
 Bu bilgi tabanı **[ikincimac.com](https://ikincimac.com)** operasyonel süreçleri referans alınarak kurgulanmıştır.
 
 - **Resmi Web:** [ikincimac.com](https://ikincimac.com)
-- **WhatsApp Hattı:** `0538 650 80 40`
+- **Youtube Kanalı:** https://www.youtube.com/@ikincielmac
 - **Operasyon Bölgesi:** İstanbul (39 İlçe Adreste Mobil Servis)
 - **Lisans:** MIT
